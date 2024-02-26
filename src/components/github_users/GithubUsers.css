@@ -1,0 +1,13 @@
+.github-user-card{
+  padding: 10px;
+}
+
+.github-user-body{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.github-user-divider{
+  margin-top: 10px;
+}
